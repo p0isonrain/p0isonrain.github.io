@@ -1,0 +1,37 @@
+<package>
+	<id>com.itorrent.xitrix</id>
+	<name>iTorrent</name>
+	<version>1.2.10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.3</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Firmware should be greater than 9.3</shortDescription>
+	<descriptionlist>
+		<description>It is an ordinary torrent client for iOS with Files app support.</description>
+		<description>What can this app do:</description>
+		<description>Download in the background
+•Sequential download (use VLC to watch films while loading)
+•Add torrent files from Share menu (Safari and other apps)
+•Add magnet links directly from Safari
+•Store files in Files app (iOS 11+)
+•File sharing directly from app
+•Download torrent by link
+•Download torrent by magnet
+•Send notification on torrent downloaded
+•WebDav Server
+•Select files to download or not
+•Change UI to dark theme
+•RSS Feed
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>IMG_3306.jpg</image>
+		</screenshot>		
+</package>
