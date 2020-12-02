@@ -11,9 +11,5 @@ Description: It is an ordinary torrent client for iOS with Files app support.
 Name: iTorrent
 Author: XITRIX
 Depiction: https://p0isonrain.github.io/repo/depictions/?p=com.itorrent.xitrit
-
-Package: com.iTorrent.xitrit
-Name: iTorrent
-...
-Depiction: https://p0isonrain.github.io/repo/depictions/?p=com.itorrent.xitrit
 SileoDepiction: https://p0isonrain.github.io/repo/sileo-depictions/?p=com.itorrent.xitrit
+
